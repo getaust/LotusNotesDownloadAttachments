@@ -33,7 +33,7 @@ import lotus.domino.EmbeddedObject;
 import lotus.domino.NotesException;
 
 /*
- * Created by T. Aust
+ * Created by T. Aust 2023
  */
 
 public class Connection {
